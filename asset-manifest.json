@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/Burger/static/css/main.a25c3e25.css",
+    "main.js": "/Burger/static/js/main.13110a01.js",
+    "static/js/453.d71f3fc1.chunk.js": "/Burger/static/js/453.d71f3fc1.chunk.js",
+    "static/media/home-burger.png": "/Burger/static/media/home-burger.289acd93ee232cfd9521.png",
+    "static/media/contact-man.png": "/Burger/static/media/contact-man.4bc37621de552b0d6a46.png",
+    "static/media/recipe-burger.png": "/Burger/static/media/recipe-burger.36df510c73acb2ad2b6c.png",
+    "static/media/home-dish.png": "/Burger/static/media/home-dish.623b4997f36db0f07f82.png",
+    "static/media/delivery-burger.png": "/Burger/static/media/delivery-burger.27d8680195e7a7fc0f06.png",
+    "static/media/popular-burger-chicken.png": "/Burger/static/media/popular-burger-chicken.8b7a9d935310dd7ec256.png",
+    "static/media/popular-burger-big.png": "/Burger/static/media/popular-burger-big.c01d4d0c4c84a9927e12.png",
+    "static/media/popular-burger-grill.png": "/Burger/static/media/popular-burger-grill.40bf2a23b7c2915dee26.png",
+    "static/media/popular-burger-meat.png": "/Burger/static/media/popular-burger-meat.ad163b32b770e0aab488.png",
+    "static/media/popular-burger-classic.png": "/Burger/static/media/popular-burger-classic.fd0e05e8f5adc2c05a75.png",
+    "static/media/recipe-vegetable.png": "/Burger/static/media/recipe-vegetable.c7d30f1cbbda33b8bd6e.png",
+    "static/media/recipe-meat.png": "/Burger/static/media/recipe-meat.bacdc93371202f0383a0.png",
+    "static/media/recipe-bread.png": "/Burger/static/media/recipe-bread.19c00721bddabd730c1e.png",
+    "static/media/recipe-sauces.png": "/Burger/static/media/recipe-sauces.2fb6383e1ca44cc49751.png",
+    "static/media/recipe-cheese.png": "/Burger/static/media/recipe-cheese.35436d63eb7afb0ce74d.png",
+    "static/media/logo-burger.svg": "/Burger/static/media/logo-burger.9fc29ba8acf86f62059ff718e4ebbb27.svg",
+    "index.html": "/Burger/index.html",
+    "main.a25c3e25.css.map": "/Burger/static/css/main.a25c3e25.css.map",
+    "main.13110a01.js.map": "/Burger/static/js/main.13110a01.js.map",
+    "453.d71f3fc1.chunk.js.map": "/Burger/static/js/453.d71f3fc1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a25c3e25.css",
+    "static/js/main.13110a01.js"
+  ]
+}
