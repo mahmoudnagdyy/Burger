@@ -1,0 +1,178 @@
+.header-links a {
+    font-family: "Aclonica", sans-serif;
+    position: relative;
+}
+
+.header-links a::after {
+    content: '';
+    position: absolute;
+    bottom: -6px;
+    left: 0;
+    width: 0;
+    height: 3px;
+    transition-duration: 0.4s;
+    background-color: rgb(250 204 21);
+    border-radius: 15px;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    -ms-border-radius: 15px;
+    -o-border-radius: 15px;
+}
+
+.header-links a:hover::after {
+    width: 100%;
+}
+
+.links-list {
+    background-color: rgb(0 0 0 / 61%);
+    position: fixed;
+    top: 81px;
+    height: 100%;
+    display: none;
+}
+
+.buttons-container {
+    display: none;
+}
+
+.links-list a {
+    font-family: "Aclonica", sans-serif;
+}
+
+.header-shadow {
+    background-color: hsl(34, 100%, 92%);
+    box-shadow: -4px -22px 67px #babcbd;
+}
+
+
+
+@media (max-width: 400px) {
+    .header-links {
+        display: none;
+    }
+
+    .links-list {
+        display: flex;
+    }
+
+    .buttons-container {
+        display: flex;
+    }
+
+    .show-list {
+        left: 0;
+        width: 100%;
+    }
+
+    .hide-list {
+        left: -400px;
+        width: 0;
+    }
+
+    .show-icon {
+        font-size: 30px;
+    }
+
+    .hide-icon {
+        font-size: 0;
+    }
+}
+
+
+@media (min-width: 400px) and (max-width: 600px) {
+    .header-links {
+        display: none;
+    }
+
+    .links-list {
+        display: flex;
+    }
+
+    .buttons-container {
+        display: flex;
+    }
+
+    .show-list {
+        left: 0;
+        width: 100%;
+    }
+
+    .hide-list {
+        left: -400px;
+        width: 0;
+    }
+
+    .show-icon {
+        font-size: 30px;
+    }
+
+    .hide-icon {
+        font-size: 0;
+    }
+}
+
+
+@media (min-width: 600px) and (max-width: 800px) {
+    .header-links {
+        display: none;
+    }
+
+    .links-list {
+        display: flex;
+    }
+
+    .buttons-container {
+        display: flex;
+    }
+
+    .show-list {
+        left: 0;
+        width: 100%;
+    }
+
+    .hide-list {
+        left: -400px;
+        width: 0;
+    }
+
+    .show-icon {
+        font-size: 30px;
+    }
+
+    .hide-icon {
+        font-size: 0;
+    }
+}
+
+
+@media (min-width: 800px) and (max-width: 1150px) {
+    .header-links {
+        display: none;
+    }
+
+    .links-list {
+        display: flex;
+    }
+
+    .buttons-container {
+        display: flex;
+    }
+
+    .show-list {
+        left: 0;
+        width: 100%;
+    }
+
+    .hide-list {
+        left: -400px;
+        width: 0;
+    }
+
+    .show-icon {
+        font-size: 30px;
+    }
+
+    .hide-icon {
+        font-size: 0;
+    }
+}

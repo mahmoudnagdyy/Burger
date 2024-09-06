@@ -1,0 +1,112 @@
+.recipe-container {
+    padding-top: 100px;
+    background-color: hsl(34, 100%, 92%);
+}
+
+.recipe-container h1 {
+    font-family: "Aclonica", sans-serif;
+}
+
+.recipe-burger {
+    height: 700px;
+}
+
+
+
+@media (max-width: 400px) {
+
+    .recipe-container {
+        padding-top: 0;
+    }
+
+    .recipe-container h1 {
+        text-align: center;
+        margin-top: 139px;
+    }
+
+
+    .recipe {
+        flex-direction: column;
+    }
+
+    .recipe-burger {
+        margin: auto;
+        margin-bottom: 50px;
+    }
+
+}
+
+
+@media (min-width: 400px) and (max-width: 600px) {
+    .recipe-container {
+        padding-top: 0;
+    }
+
+    .recipe-container h1 {
+        text-align: center;
+        margin-top: 160px;
+    }
+
+    .recipe {
+        flex-direction: column;
+    }
+
+    .recipe-burger {
+        margin: auto;
+        margin-bottom: 50px;
+    }
+}
+
+
+@media (min-width: 600px) and (max-width: 800px) {
+    .recipe-container {
+        padding-top: 0;
+    }
+
+    .recipe-container h1 {
+        text-align: center;
+        margin-top: 209px;
+    }
+
+    .recipe {
+        flex-direction: column;
+    }
+
+    .recipe-burger {
+        margin: auto;
+        margin-bottom: 50px;
+    }
+}
+
+
+@media (min-width: 800px) and (max-width: 1150px) {
+    .header-links {
+        display: none;
+    }
+
+    .links-list {
+        display: flex;
+    }
+
+    .buttons-container {
+        display: flex;
+    }
+
+    .show-list {
+        left: 0;
+        width: 100%;
+    }
+
+    .hide-list {
+        left: -400px;
+        width: 0;
+    }
+
+    .show-icon {
+        font-size: 30px;
+    }
+
+    .hide-icon {
+        font-size: 0;
+    }
+}

@@ -1,0 +1,15 @@
+body {
+    font-family: "Montserrat", sans-serif;
+    background-color: hsl(34, 100%, 92%);
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+h1,
+h2,
+h3,
+h4 {
+    font-family: "Aclonica", sans-serif;
+}
